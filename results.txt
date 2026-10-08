@@ -1,0 +1,6 @@
+method       bars bought   waste %   gain vs naive (pts)
+naive               3667     17.97                  0.00
+ffd                 3144      4.32                 13.65
+ffd+reuse           3055      1.51                 16.46
+
+ffd+reuse bought fewer bars on 200/200 jobs, same on 0 (paired, same parts)
